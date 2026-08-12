@@ -19,6 +19,16 @@
       "sha256": "7eff3e8e1b3fa0f596e481374eae33fe22efef95f716ded790b17bc68c06d8ae"
     },
     {
+      "name": "composer-docked-placeholder-fix-lynx.png",
+      "bytes": 280063,
+      "sha256": "3a92d8a14bbe41633437cd577e59ef77f0d42e372c6ee696b706c44900dffc17"
+    },
+    {
+      "name": "composer-docked-placeholder-fix-web.png",
+      "bytes": 291486,
+      "sha256": "671779d0bbd9fe1f4623b2c3b17baf4acc1647bd0270392dadc4572765ca6949"
+    },
+    {
       "name": "composer-docked-web.png",
       "bytes": 291468,
       "sha256": "08d18f74c913087b5efd49a8026693260ad4799cf0478ffae96a7aaa5e499185"
