@@ -14,6 +14,16 @@
       "sha256": "b91e3db4ef8e1a21487713a866894e415bc1f315bfd122db7b599e8a4e495087"
     },
     {
+      "name": "composer-docked-lynx.png",
+      "bytes": 281370,
+      "sha256": "7eff3e8e1b3fa0f596e481374eae33fe22efef95f716ded790b17bc68c06d8ae"
+    },
+    {
+      "name": "composer-docked-web.png",
+      "bytes": 291468,
+      "sha256": "08d18f74c913087b5efd49a8026693260ad4799cf0478ffae96a7aaa5e499185"
+    },
+    {
       "name": "model-picker-lynx.png",
       "bytes": 271440,
       "sha256": "8fe0105f287ed8b699a9f335413d25df590cdaaf6c2e2a6b2256ff2eb0a4c48a"
