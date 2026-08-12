@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "purpose": "T3 Code Lynxtron fidelity-loss comparison screenshots",
+  "source": "T3 Code historical evidence archive",
+  "assets": [
+    {
+      "name": "baseline-lynx.jpg",
+      "bytes": 474455,
+      "sha256": "fe20a5bbca0831a63ece5f5cfd2eae298ca1e3ed32e1b428b635e9394f2b3627"
+    },
+    {
+      "name": "baseline-web.png",
+      "bytes": 930281,
+      "sha256": "b91e3db4ef8e1a21487713a866894e415bc1f315bfd122db7b599e8a4e495087"
+    },
+    {
+      "name": "model-picker-lynx.png",
+      "bytes": 271440,
+      "sha256": "8fe0105f287ed8b699a9f335413d25df590cdaaf6c2e2a6b2256ff2eb0a4c48a"
+    },
+    {
+      "name": "model-picker-native.png",
+      "bytes": 1047964,
+      "sha256": "4805038d548494871bae7ef60545f798f5eeb278f7717aa755c0f99ef47344b2"
+    },
+    {
+      "name": "model-picker-web.png",
+      "bytes": 283841,
+      "sha256": "04d3cbf7f8f4e7e894bfa1f87bbf05dc1e49b64bb856873b7013c1bd9457382b"
+    },
+    {
+      "name": "strict-lynx.png",
+      "bytes": 51070,
+      "sha256": "3c005094adc377f1e67dd2d78a3d190581d26b6f9801f357777694791db4a51d"
+    },
+    {
+      "name": "strict-web.png",
+      "bytes": 322887,
+      "sha256": "e734543fc83ae47b238266c14be090331b1493551feadbdf513d468e22114cca"
+    }
+  ]
+}
