@@ -34,29 +34,14 @@
       "sha256": "08d18f74c913087b5efd49a8026693260ad4799cf0478ffae96a7aaa5e499185"
     },
     {
-      "name": "composer-hero-context-controls-after-lynx.png",
-      "bytes": 268721,
-      "sha256": "f1c83d8ff5722460839d0f8623e029fa8d070dee52d8d98165c9b5be44005f38"
+      "name": "composer-footer-material-dark-native.png",
+      "bytes": 977316,
+      "sha256": "3fddc9b0bd5e0b72cded758b709e217cc60bd5a90b7fa14196cd12995b6c8859"
     },
     {
-      "name": "composer-hero-context-labels-after-lynx.png",
-      "bytes": 268724,
-      "sha256": "4ba0a46df2833726bb5240f0c16d0f423b51a0495dc1494fa93240054bcd8bb2"
-    },
-    {
-      "name": "composer-hero-context-icons-exact-lynx.png",
-      "bytes": 268679,
-      "sha256": "280af956fc0ff957880f577c1f7c6d21394c568fb77158915f1e8a0472c5654b"
-    },
-    {
-      "name": "composer-hero-light-context-web.png",
-      "bytes": 259783,
-      "sha256": "60c3794d461ac23b241af12833c5be679885d0ce2e8d2b65d3c761de11920232"
-    },
-    {
-      "name": "composer-hero-1440-dark-web.png",
-      "bytes": 315196,
-      "sha256": "614bdd4dfa0ae3518d0fe9cc7c318963d66ab907fba920aae99069145585f411"
+      "name": "composer-footer-material-light-native.png",
+      "bytes": 330877,
+      "sha256": "19184ee8d4baa61bb6e70a7a3e40238899164bafb319fa7850cb21586420734a"
     },
     {
       "name": "composer-hero-1440-dark-lynx.png",
@@ -69,9 +54,9 @@
       "sha256": "13bae8f703b47b4298e890936a68f11706ccfd90701bc44b72ecb885a13a96e0"
     },
     {
-      "name": "composer-hero-1440-light-web.png",
-      "bytes": 287245,
-      "sha256": "730b200d49021a7d20d7e8ef91ada502cb322bf165009edf1390abe54c6266e9"
+      "name": "composer-hero-1440-dark-web.png",
+      "bytes": 315196,
+      "sha256": "614bdd4dfa0ae3518d0fe9cc7c318963d66ab907fba920aae99069145585f411"
     },
     {
       "name": "composer-hero-1440-light-lynx.png",
@@ -84,6 +69,31 @@
       "sha256": "dd2587af7a851f42611b40025d1aa162f87fdd0ccaa91937ec0ab5a5f949ce92"
     },
     {
+      "name": "composer-hero-1440-light-web.png",
+      "bytes": 287245,
+      "sha256": "730b200d49021a7d20d7e8ef91ada502cb322bf165009edf1390abe54c6266e9"
+    },
+    {
+      "name": "composer-hero-context-controls-after-lynx.png",
+      "bytes": 268721,
+      "sha256": "f1c83d8ff5722460839d0f8623e029fa8d070dee52d8d98165c9b5be44005f38"
+    },
+    {
+      "name": "composer-hero-context-icons-exact-lynx.png",
+      "bytes": 268679,
+      "sha256": "280af956fc0ff957880f577c1f7c6d21394c568fb77158915f1e8a0472c5654b"
+    },
+    {
+      "name": "composer-hero-context-labels-after-lynx.png",
+      "bytes": 268724,
+      "sha256": "4ba0a46df2833726bb5240f0c16d0f423b51a0495dc1494fa93240054bcd8bb2"
+    },
+    {
+      "name": "composer-hero-footer-material-lynx.png",
+      "bytes": 268314,
+      "sha256": "f71331b39ee8a7cc5822fa78ae28aa4609e60135d4d0f46755adb13214fc488c"
+    },
+    {
       "name": "composer-hero-light-context-lynx.png",
       "bytes": 64919,
       "sha256": "025210425341cd1b4b7d3d64fe3ffb6defa6346694cb2e8969d89f3cb83e784d"
@@ -94,34 +104,9 @@
       "sha256": "4f6f5fbc9eaedde9dd5541c285f930d2e7da561402dc5fa248643f0aa0e5486c"
     },
     {
-      "name": "composer-sendable-context-controls-after-lynx.png",
-      "bytes": 269148,
-      "sha256": "01814828ce1a5d742ba5dfaeb64ab9ff3c1d19778cfa8d3587ddeef9113528e3"
-    },
-    {
-      "name": "composer-sendable-context-labels-after-lynx.png",
-      "bytes": 269157,
-      "sha256": "acf1b10dd5bbb19b65d4ed191135464b84251f70d166846cb38a1821d6f651d9"
-    },
-    {
-      "name": "composer-sendable-context-icons-exact-lynx.png",
-      "bytes": 269111,
-      "sha256": "72b04408de30bae0a5b5c29b108e9547e947cd1a37734521042af4cc913ad661"
-    },
-    {
-      "name": "composer-footer-material-dark-native.png",
-      "bytes": 977316,
-      "sha256": "3fddc9b0bd5e0b72cded758b709e217cc60bd5a90b7fa14196cd12995b6c8859"
-    },
-    {
-      "name": "composer-footer-material-light-native.png",
-      "bytes": 330877,
-      "sha256": "19184ee8d4baa61bb6e70a7a3e40238899164bafb319fa7850cb21586420734a"
-    },
-    {
-      "name": "composer-hero-footer-material-lynx.png",
-      "bytes": 268314,
-      "sha256": "f71331b39ee8a7cc5822fa78ae28aa4609e60135d4d0f46755adb13214fc488c"
+      "name": "composer-hero-light-context-web.png",
+      "bytes": 259783,
+      "sha256": "60c3794d461ac23b241af12833c5be679885d0ce2e8d2b65d3c761de11920232"
     },
     {
       "name": "composer-hero-light-footer-material-lynx.png",
@@ -129,59 +114,24 @@
       "sha256": "8721309f33a7d79654f1624bd0112570eb84fb117b592584d922f9840a6e3bd9"
     },
     {
+      "name": "composer-sendable-context-controls-after-lynx.png",
+      "bytes": 269148,
+      "sha256": "01814828ce1a5d742ba5dfaeb64ab9ff3c1d19778cfa8d3587ddeef9113528e3"
+    },
+    {
+      "name": "composer-sendable-context-icons-exact-lynx.png",
+      "bytes": 269111,
+      "sha256": "72b04408de30bae0a5b5c29b108e9547e947cd1a37734521042af4cc913ad661"
+    },
+    {
+      "name": "composer-sendable-context-labels-after-lynx.png",
+      "bytes": 269157,
+      "sha256": "acf1b10dd5bbb19b65d4ed191135464b84251f70d166846cb38a1821d6f651d9"
+    },
+    {
       "name": "composer-sendable-footer-material-lynx.png",
       "bytes": 268750,
       "sha256": "4c6953ff5f9d43ff2c99f54445d6c4fa745101b5a1c9838901d073485534e787"
-    },
-    {
-      "name": "existing-thread-working-lynx.png",
-      "bytes": 276773,
-      "sha256": "be4ba2365a57ab46fef4277108cf240ff4c07e1bfa43bae8398c945599ebf789"
-    },
-    {
-      "name": "existing-thread-working-before-lynx.png",
-      "bytes": 276566,
-      "sha256": "1c318f971bc97437e7f410a4256fadefbb932dd8c467e5f917a08872dbd9a9ac"
-    },
-    {
-      "name": "existing-thread-working-before-web.png",
-      "bytes": 295067,
-      "sha256": "d0911a83745ab196cd7d324639e57daec03f15322a6187e20abb6821328cdece"
-    },
-    {
-      "name": "existing-thread-working-native.png",
-      "bytes": 943704,
-      "sha256": "000a43f7973630f59aec083d9f45b92c917c4d5e20e8fefbc057bdee79543f70"
-    },
-    {
-      "name": "existing-thread-working-web.png",
-      "bytes": 295250,
-      "sha256": "5166d330c00850d4fee94a03234bb92bc10654f267971f6e50deb93034929131"
-    },
-    {
-      "name": "existing-thread-completed-before-lynx.png",
-      "bytes": 272658,
-      "sha256": "4cbf821bdeaa7f37432415ff448f00e8445883fcd01669243092ce4154f3854b"
-    },
-    {
-      "name": "existing-thread-completed-before-web.png",
-      "bytes": 282328,
-      "sha256": "686b53f12cb19c641e0f1a28a186f32346805d8a8ee6e020fbf4ea54e7a1861e"
-    },
-    {
-      "name": "existing-thread-completed-lynx.png",
-      "bytes": 272434,
-      "sha256": "0abd896e626f6fed96799d6602f9db0de0175b12faa3d978d3e96bddada99d5b"
-    },
-    {
-      "name": "existing-thread-completed-native.png",
-      "bytes": 937475,
-      "sha256": "18c11f99f711d81ed823a6df0d6aec72f4752c4932ebc0c3ce11891c761980e2"
-    },
-    {
-      "name": "existing-thread-completed-web.png",
-      "bytes": 282554,
-      "sha256": "d4ac0d2c5276402a841649ea3757807e618a53af864fc7a7ea07d3adc092fae2"
     },
     {
       "name": "existing-thread-approval-before-lynx.png",
@@ -209,6 +159,31 @@
       "sha256": "019900690e0363818668d1ec3c3e293737e47e468611c927ed5d085f8ca31614"
     },
     {
+      "name": "existing-thread-completed-before-lynx.png",
+      "bytes": 272658,
+      "sha256": "4cbf821bdeaa7f37432415ff448f00e8445883fcd01669243092ce4154f3854b"
+    },
+    {
+      "name": "existing-thread-completed-before-web.png",
+      "bytes": 282328,
+      "sha256": "686b53f12cb19c641e0f1a28a186f32346805d8a8ee6e020fbf4ea54e7a1861e"
+    },
+    {
+      "name": "existing-thread-completed-lynx.png",
+      "bytes": 272434,
+      "sha256": "0abd896e626f6fed96799d6602f9db0de0175b12faa3d978d3e96bddada99d5b"
+    },
+    {
+      "name": "existing-thread-completed-native.png",
+      "bytes": 937475,
+      "sha256": "18c11f99f711d81ed823a6df0d6aec72f4752c4932ebc0c3ce11891c761980e2"
+    },
+    {
+      "name": "existing-thread-completed-web.png",
+      "bytes": 282554,
+      "sha256": "d4ac0d2c5276402a841649ea3757807e618a53af864fc7a7ea07d3adc092fae2"
+    },
+    {
       "name": "existing-thread-failed-before-lynx.png",
       "bytes": 274941,
       "sha256": "c984a33c19c787c38f008081cf7414c94cc1b94ccfc4cebedbbf46609ac896a0"
@@ -232,6 +207,56 @@
       "name": "existing-thread-failed-web.png",
       "bytes": 289326,
       "sha256": "2fd3c307a5141308582ebc48e31f04615424a475a7cae3e0d474e2b66fe65f42"
+    },
+    {
+      "name": "existing-thread-question-before-lynx.png",
+      "bytes": 305512,
+      "sha256": "142a8bf03b421708880f09c67aa4f776ca3a685e9b7230e92c656a23d5e23b74"
+    },
+    {
+      "name": "existing-thread-question-before-web.png",
+      "bytes": 312418,
+      "sha256": "bed24cebdbdb7e6fe137d376b31832434b2ff8870cb854c3d21d245d18be14d9"
+    },
+    {
+      "name": "existing-thread-question-lynx.png",
+      "bytes": 302930,
+      "sha256": "c0a870a475b4500d7e735becef7f86014341c5561e0c8b8908fc7d4fd4835a64"
+    },
+    {
+      "name": "existing-thread-question-native.png",
+      "bytes": 1020859,
+      "sha256": "b4e25f801eb1bd891f6c517d228ccce6b6f5a99cbbb89253fe8ebcc061eda815"
+    },
+    {
+      "name": "existing-thread-question-web.png",
+      "bytes": 312525,
+      "sha256": "150258d1762f3a8d2a2c8a721147a36dada4e8d16d90a97289ebcfa9574fb3a3"
+    },
+    {
+      "name": "existing-thread-working-before-lynx.png",
+      "bytes": 276566,
+      "sha256": "1c318f971bc97437e7f410a4256fadefbb932dd8c467e5f917a08872dbd9a9ac"
+    },
+    {
+      "name": "existing-thread-working-before-web.png",
+      "bytes": 295067,
+      "sha256": "d0911a83745ab196cd7d324639e57daec03f15322a6187e20abb6821328cdece"
+    },
+    {
+      "name": "existing-thread-working-lynx.png",
+      "bytes": 276773,
+      "sha256": "be4ba2365a57ab46fef4277108cf240ff4c07e1bfa43bae8398c945599ebf789"
+    },
+    {
+      "name": "existing-thread-working-native.png",
+      "bytes": 943704,
+      "sha256": "000a43f7973630f59aec083d9f45b92c917c4d5e20e8fefbc057bdee79543f70"
+    },
+    {
+      "name": "existing-thread-working-web.png",
+      "bytes": 295250,
+      "sha256": "5166d330c00850d4fee94a03234bb92bc10654f267971f6e50deb93034929131"
     },
     {
       "name": "model-picker-lynx.png",
