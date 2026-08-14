@@ -184,6 +184,31 @@
       "sha256": "d4ac0d2c5276402a841649ea3757807e618a53af864fc7a7ea07d3adc092fae2"
     },
     {
+      "name": "existing-thread-failed-before-lynx.png",
+      "bytes": 274941,
+      "sha256": "c984a33c19c787c38f008081cf7414c94cc1b94ccfc4cebedbbf46609ac896a0"
+    },
+    {
+      "name": "existing-thread-failed-before-web.png",
+      "bytes": 289326,
+      "sha256": "2fd3c307a5141308582ebc48e31f04615424a475a7cae3e0d474e2b66fe65f42"
+    },
+    {
+      "name": "existing-thread-failed-lynx.png",
+      "bytes": 280391,
+      "sha256": "a219ed0a53c429d1514c93076092d7cbeb204035c52afe312481f9ccefe2e1de"
+    },
+    {
+      "name": "existing-thread-failed-native.png",
+      "bytes": 264793,
+      "sha256": "d3e50fb2865cf14a94f30b650d8129f22e524cdb81cb5b74c98191f7b11a3645"
+    },
+    {
+      "name": "existing-thread-failed-web.png",
+      "bytes": 289326,
+      "sha256": "2fd3c307a5141308582ebc48e31f04615424a475a7cae3e0d474e2b66fe65f42"
+    },
+    {
       "name": "model-picker-lynx.png",
       "bytes": 271440,
       "sha256": "8fe0105f287ed8b699a9f335413d25df590cdaaf6c2e2a6b2256ff2eb0a4c48a"
