@@ -34,6 +34,16 @@
       "sha256": "08d18f74c913087b5efd49a8026693260ad4799cf0478ffae96a7aaa5e499185"
     },
     {
+      "name": "composer-hero-context-controls-after-lynx.png",
+      "bytes": 268721,
+      "sha256": "f1c83d8ff5722460839d0f8623e029fa8d070dee52d8d98165c9b5be44005f38"
+    },
+    {
+      "name": "composer-sendable-context-controls-after-lynx.png",
+      "bytes": 269148,
+      "sha256": "01814828ce1a5d742ba5dfaeb64ab9ff3c1d19778cfa8d3587ddeef9113528e3"
+    },
+    {
       "name": "model-picker-lynx.png",
       "bytes": 271440,
       "sha256": "8fe0105f287ed8b699a9f335413d25df590cdaaf6c2e2a6b2256ff2eb0a4c48a"
