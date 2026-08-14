@@ -134,6 +134,21 @@
       "sha256": "4c6953ff5f9d43ff2c99f54445d6c4fa745101b5a1c9838901d073485534e787"
     },
     {
+      "name": "existing-thread-working-lynx.png",
+      "bytes": 276773,
+      "sha256": "be4ba2365a57ab46fef4277108cf240ff4c07e1bfa43bae8398c945599ebf789"
+    },
+    {
+      "name": "existing-thread-working-native.png",
+      "bytes": 943704,
+      "sha256": "000a43f7973630f59aec083d9f45b92c917c4d5e20e8fefbc057bdee79543f70"
+    },
+    {
+      "name": "existing-thread-working-web.png",
+      "bytes": 295250,
+      "sha256": "5166d330c00850d4fee94a03234bb92bc10654f267971f6e50deb93034929131"
+    },
+    {
       "name": "model-picker-lynx.png",
       "bytes": 271440,
       "sha256": "8fe0105f287ed8b699a9f335413d25df590cdaaf6c2e2a6b2256ff2eb0a4c48a"
