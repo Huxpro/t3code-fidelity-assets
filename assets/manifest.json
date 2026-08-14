@@ -109,6 +109,31 @@
       "sha256": "72b04408de30bae0a5b5c29b108e9547e947cd1a37734521042af4cc913ad661"
     },
     {
+      "name": "composer-footer-material-dark-native.png",
+      "bytes": 977316,
+      "sha256": "3fddc9b0bd5e0b72cded758b709e217cc60bd5a90b7fa14196cd12995b6c8859"
+    },
+    {
+      "name": "composer-footer-material-light-native.png",
+      "bytes": 330877,
+      "sha256": "19184ee8d4baa61bb6e70a7a3e40238899164bafb319fa7850cb21586420734a"
+    },
+    {
+      "name": "composer-hero-footer-material-lynx.png",
+      "bytes": 268314,
+      "sha256": "f71331b39ee8a7cc5822fa78ae28aa4609e60135d4d0f46755adb13214fc488c"
+    },
+    {
+      "name": "composer-hero-light-footer-material-lynx.png",
+      "bytes": 64864,
+      "sha256": "8721309f33a7d79654f1624bd0112570eb84fb117b592584d922f9840a6e3bd9"
+    },
+    {
+      "name": "composer-sendable-footer-material-lynx.png",
+      "bytes": 268750,
+      "sha256": "4c6953ff5f9d43ff2c99f54445d6c4fa745101b5a1c9838901d073485534e787"
+    },
+    {
       "name": "model-picker-lynx.png",
       "bytes": 271440,
       "sha256": "8fe0105f287ed8b699a9f335413d25df590cdaaf6c2e2a6b2256ff2eb0a4c48a"
