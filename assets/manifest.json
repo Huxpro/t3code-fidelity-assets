@@ -54,6 +54,36 @@
       "sha256": "60c3794d461ac23b241af12833c5be679885d0ce2e8d2b65d3c761de11920232"
     },
     {
+      "name": "composer-hero-1440-dark-web.png",
+      "bytes": 315196,
+      "sha256": "614bdd4dfa0ae3518d0fe9cc7c318963d66ab907fba920aae99069145585f411"
+    },
+    {
+      "name": "composer-hero-1440-dark-lynx.png",
+      "bytes": 300002,
+      "sha256": "39e8a0f83995c45a49c0d22635faea78a4446d67dd22dabdafc06c1dacd2fa4a"
+    },
+    {
+      "name": "composer-hero-1440-dark-native.png",
+      "bytes": 1075586,
+      "sha256": "13bae8f703b47b4298e890936a68f11706ccfd90701bc44b72ecb885a13a96e0"
+    },
+    {
+      "name": "composer-hero-1440-light-web.png",
+      "bytes": 287245,
+      "sha256": "730b200d49021a7d20d7e8ef91ada502cb322bf165009edf1390abe54c6266e9"
+    },
+    {
+      "name": "composer-hero-1440-light-lynx.png",
+      "bytes": 67490,
+      "sha256": "1e1b62daefe54d004e60d5401b76581abc9d855a296203728ce8ae2f869dd85a"
+    },
+    {
+      "name": "composer-hero-1440-light-native.png",
+      "bytes": 348463,
+      "sha256": "dd2587af7a851f42611b40025d1aa162f87fdd0ccaa91937ec0ab5a5f949ce92"
+    },
+    {
       "name": "composer-hero-light-context-lynx.png",
       "bytes": 64919,
       "sha256": "025210425341cd1b4b7d3d64fe3ffb6defa6346694cb2e8969d89f3cb83e784d"
